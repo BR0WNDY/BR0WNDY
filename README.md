@@ -52,8 +52,8 @@ A news-reaction style web project. `HTML`
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BR0WNDY&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BR0WNDY&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <img src="https://img.shields.io/github/followers/BR0WNDY?label=Followers&style=for-the-badge&color=2E86AB&logo=github&logoColor=white" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/BR0WNDY&label=Public%20Repos&query=public_repos&style=for-the-badge&color=2E86AB&logo=github&logoColor=white" alt="Public Repos"/>
 </div>
 
 <div align="center">
